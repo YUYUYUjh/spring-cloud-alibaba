@@ -8,6 +8,7 @@
         <module>mall-common</module>
         <module>mall-order</module>
         <module>mall-user</module>
+        <module>mall-user-ribbon-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

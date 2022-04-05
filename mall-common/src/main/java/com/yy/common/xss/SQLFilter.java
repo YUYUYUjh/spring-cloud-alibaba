@@ -15,7 +15,6 @@ import org.apache.commons.lang.StringUtils;
 /**
  * SQL过滤
  *
- * @author Fox
  */
 public class SQLFilter {
 

@@ -25,8 +25,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 
  *
- * @author fox
- * @email 2763800211@qq.com
+ * @author Yu#
  * @date 2021-01-28 15:53:24
  */
 @RestController

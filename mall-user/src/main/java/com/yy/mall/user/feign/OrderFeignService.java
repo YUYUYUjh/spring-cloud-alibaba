@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author Fox
+ * @author Yu#
  */
 @FeignClient(value = "mall-order",path = "/rest/order")
 public interface OrderFeignService {

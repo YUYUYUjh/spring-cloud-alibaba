@@ -8,7 +8,7 @@ import com.alibaba.nacos.api.naming.listener.NamingEvent;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author Fox
+ * @author Yu#
  */
 
 public class NamingTest {

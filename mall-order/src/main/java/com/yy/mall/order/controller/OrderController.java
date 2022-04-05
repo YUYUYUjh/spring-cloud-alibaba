@@ -13,13 +13,6 @@ import java.util.List;
 import java.util.Map;
 
 
-/**
- * 
- *
- * @author fox
- * @email 2763800211@qq.com
- * @date 2021-01-28 15:46:19
- */
 @RestController
 @RequestMapping("/order")
 @Slf4j

@@ -6,13 +6,6 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * 
- * 
- * @author fox
- * @email 2763800211@qq.com
- * @date 2021-01-28 15:46:19
- */
 @Data
 @TableName("t_order")
 public class OrderEntity implements Serializable {

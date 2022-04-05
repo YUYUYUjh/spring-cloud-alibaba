@@ -11,7 +11,6 @@ package com.yy.common.exception;
 /**
  * 自定义异常
  *
- * @author Fox
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

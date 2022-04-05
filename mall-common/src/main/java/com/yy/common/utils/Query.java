@@ -19,7 +19,6 @@ import java.util.Map;
 /**
  * 查询参数
  *
- * @author Fox
  */
 public class Query<T> {
 
