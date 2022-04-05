@@ -1,0 +1,4 @@
+# Project exclude paths
+/mall-common/target/
+/mall-order/target/
+/mall-user/target/
