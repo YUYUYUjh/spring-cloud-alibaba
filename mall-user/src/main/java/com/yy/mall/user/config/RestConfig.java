@@ -26,8 +26,8 @@ public class RestConfig {
 //    @LoadBalanced
     public RestTemplate restTemplate() {
 
+//        restTemplate.setInterceptors(Collections.singletonList(new LoadBalancerInterceptor(loadBalancerClient)));
         RestTemplate restTemplate = new RestTemplate();
-        restTemplate.setInterceptors(Collections.singletonList(new LoadBalancerInterceptor(loadBalancerClient)));
         return restTemplate;
     }
     

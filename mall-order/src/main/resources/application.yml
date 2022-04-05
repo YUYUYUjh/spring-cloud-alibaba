@@ -15,6 +15,7 @@ spring:
         #group:  mall-order
         cluster-name: SH
         ephemeral: false
+        ip: 127.0.0.1
 
 
 
